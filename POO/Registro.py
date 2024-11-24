@@ -67,6 +67,4 @@ class Cuenta:
                 self.menu()
                 
 cuenta1 = Cuenta()
-# cuenta1.registro()
-# cuenta1.login()
 cuenta1.menu()
